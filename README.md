@@ -2,7 +2,7 @@
 
 **Hostipal_System** is a web application designed to manage various aspects of hospital operations. Utilizing Java Servlets and running on Apache Tomcat, this application provides functionalities for admin management, doctor appointments, and user interactions.
 # project live:
-   
+                                                                                                                                                                               
 https://github.com/user-attachments/assets/25abbe91-99b9-437a-ad9e-9cbe509c09c8
 
       
